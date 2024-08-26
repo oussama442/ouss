@@ -148,6 +148,7 @@ section{
             }
 .project-img img {
                  width: 100%;
+                 height: 200px;
                  }
 .card2:hover .project-img{
                          opacity: 0.9;
